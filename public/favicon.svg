@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none">
+  <!-- Circular Heritage Crest -->
+  <circle cx="32" cy="32" r="30" fill="#173D32" stroke="#C3A16A" stroke-width="2.5" />
+  
+  <!-- Ethiopian Mesob Lid Silhouette -->
+  <path d="M 32 14 L 48 30 C 48 30, 32 33, 16 30 Z" fill="#E9E0D1" stroke="#C3A16A" stroke-width="1.5" />
+  <circle cx="32" cy="12" r="3.5" fill="#C3A16A" />
+
+  <!-- Mesob Woven Band -->
+  <polygon points="32,20 37,25 32,30 27,25" fill="#B86B48" />
+
+  <!-- Mesob Base -->
+  <path d="M 20 30 Q 32 34 44 30 L 41 46 Q 32 49 23 46 Z" fill="#F5F0E6" stroke="#C3A16A" stroke-width="1.5" />
+  <path d="M 24 46 Q 32 49 40 46 L 43 52 Q 32 54 21 52 Z" fill="#284D3C" />
+
+  <!-- Decorative Brass Accent Stars -->
+  <polygon points="32,36 34,40 32,44 30,40" fill="#C3A16A" />
+</svg>
